@@ -7,7 +7,7 @@ This is a mod for Sonic Generations that enable events to destroy enemy and trig
 Mod Usage
 ------------------------------------------------------------
 This is NOT a standalone mod, but setup as one so user can get updates from update server.
-You are free to use the .dll file included, but you must include the following somewhere in your mod:
+You are free to use the .dll file included, but you must include the following somewhere in your mod (e.g. README file):
 -Credit brianuuu for the Enemy Trigger dll mod
 -Link the source code from: https://github.com/brianuuu/DllMods/tree/master/Source/EnemyTrigger
 
