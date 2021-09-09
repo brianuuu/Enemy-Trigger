@@ -1,0 +1,3 @@
+add EnemyTrigger.dll
+add mod.ini
+add README.txt
