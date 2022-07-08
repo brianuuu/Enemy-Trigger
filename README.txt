@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Enemy Trigger v1.0---------------------------
+-----------------------------Enemy Trigger v1.1---------------------------
 
 This is a mod for Sonic Generations that enable events to destroy enemy and trigger events.
 
@@ -7,6 +7,8 @@ This is a mod for Sonic Generations that enable events to destroy enemy and trig
 Mod Usage
 ------------------------------------------------------------
 This is NOT a standalone mod and does NOT modify stages in any way, user must add functionality to their own mod. This mod is setup as standalone so user can get updates from update server.
+
+It is recommended to use HedgeModManager's dependency system to include this mod if you wish to use this in your own mod. You can do that by Edit Mod on your mod, add "brianuuu.enemytrigger" ID to dependencies, then put https://gamebanana.com/mods/320514 to Link section for people can download this accordingly.
 
 You are free to use the .dll file included, but you must include the following somewhere in your mod (e.g. README file):
 -Credit brianuuu for the Enemy Trigger dll mod
