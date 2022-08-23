@@ -1,4 +1,3 @@
 add EnemyTrigger.dll
 add mod.ini
 add README.txt
-add test/
