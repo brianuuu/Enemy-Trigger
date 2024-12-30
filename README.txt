@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Enemy Trigger v1.1---------------------------
+-----------------------------Enemy Trigger v1.2---------------------------
 
 This is a mod for Sonic Generations that enable events to destroy enemy and trigger events.
 
@@ -21,6 +21,20 @@ There are two ways to use this in stages:
 -Use event to destroy enemy: In EventCollision/EventSetter, set Event to 12 and add the enemy to the respective TargetList, this can be used for destroying enemy by environmental objects like spikes or missiles etc.
 
 -This mod works ONLY with HedgeModManager, SonicGMI is NOT supported!
+
+------------------------------------------------------------
+Change Log
+------------------------------------------------------------
+v1.2
+- Redone codebase
+- Enemy now send trigger when it explode instead of when getting hit
+
+v1.1
+- Added ID for mod.ini so other mods can enforce it with dependency in HedgeModManager
+- Fixed bug on Motora and Ganigani
+
+v1.0
+- Initial release
 
 ------------------------------------------------------------
 Credits
